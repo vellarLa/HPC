@@ -33,3 +33,6 @@
 11) Вывод результатов
 12) Освобождение памяти GPU и CPU
 Результаты, программный код и комментарии приведены по ссылке.
+
+- [lab-3. Pi-value Calculation, 1 point](https://github.com/vellarLa/HPC/blob/main/HPC_3lab.ipynb)
+Параллельный алгоритм расчета значения pi.
