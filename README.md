@@ -1,5 +1,5 @@
 # HPC
-- [lab-1. Matrix Multiplication](https://github.com/vellarLa/HPC/blob/main/HPC_1lab.ipynb)
+# [lab-1. Matrix Multiplication](https://github.com/vellarLa/HPC/blob/main/HPC_1lab.ipynb)
 Параллельный алгоритм реализован с использованием функции ядра.
 Тип матриц - double, BLOCK_SIZE = 16, размер матриц задается в процессе выполнения программы
 Алгоритм:
@@ -16,7 +16,7 @@
 11) Освобождение памяти GPU и CPU
 Результаты, программный код и комментарии приведены по ссылке.
 
-- [lab-2. Matrix Multiplication](https://github.com/vellarLa/HPC/blob/main/HPC_2lab.ipynb)
+# [lab-2. Matrix Multiplication](https://github.com/vellarLa/HPC/blob/main/HPC_2lab.ipynb)
 Параллельный алгоритм реализован с использованием функции ядра.
 Тип векторов - double, BLOCK_SIZE = 512, GRID_SIZE = 1024; размер матриц задается в процессе выполнения программы
 Алгоритм:
@@ -34,7 +34,7 @@
 12) Освобождение памяти GPU и CPU
 Результаты, программный код и комментарии приведены по ссылке.
 
-- [lab-3. Pi-value Calculation, 1 point](https://github.com/vellarLa/HPC/blob/main/HPC_3lab.ipynb)
+# [lab-3. Pi-value Calculation, 1 point](https://github.com/vellarLa/HPC/blob/main/HPC_3lab.ipynb)
 Параллельный алгоритм расчета значения pi реализован с использованием функции ядра.
 
 Так как код блокнота на гитхабе отображается криво (пропущены куски), вот ссылка на колаб
