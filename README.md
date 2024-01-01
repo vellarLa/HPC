@@ -17,8 +17,8 @@
 Результаты, программный код и комментарии приведены по ссылке.
 
 - [lab-2. Matrix Multiplication](https://github.com/vellarLa/HPC/blob/main/HPC_2lab.ipynb)
-# Так как код блокнота на гитхабе отображается криво (пропущены куски), вот ссылка на колаб
-# https://colab.research.google.com/drive/16dynDuJATeH7hvniGIMfn0bU6nFZqSom?usp=sharing
+Так как код блокнота на гитхабе отображается криво (пропущены куски), вот ссылка на колаб
+https://colab.research.google.com/drive/16dynDuJATeH7hvniGIMfn0bU6nFZqSom?usp=sharing
 Параллельный алгоритм реализован с использованием функции ядра.
 Тип векторов - double, BLOCK_SIZE = 512, GRID_SIZE = 1024; размер матриц задается в процессе выполнения программы
 Алгоритм:
