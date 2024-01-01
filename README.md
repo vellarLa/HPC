@@ -38,6 +38,9 @@ https://colab.research.google.com/drive/16dynDuJATeH7hvniGIMfn0bU6nFZqSom?usp=sh
 
 - [lab-3. Pi-value Calculation, 1 point](https://github.com/vellarLa/HPC/blob/main/HPC_3lab.ipynb)
 Параллельный алгоритм расчета значения pi реализован с использованием функции ядра.
+
+# так как код блокнота на гитхабе отображается криво (пропущены куски), вот ссылка на колаб
+# https://colab.research.google.com/drive/16dynDuJATeH7hvniGIMfn0bU6nFZqSom?usp=sharing
 Алгоритм:
 1) С использованием библиотеки CURAND были сгенерированы N значенений (точек) на GPU (массивы X и Y).
 2) Реализация функции ядра со следующими вычислениями:
