@@ -49,6 +49,8 @@ https://colab.research.google.com/drive/16dynDuJATeH7hvniGIMfn0bU6nFZqSom?usp=sh
 
 # [lab-4. Salt and Pepper, 2 point](https://github.com/vellarLa/HPC/blob/main/HPC_4lab.ipynb)
 Параллельный алгоритм фильтрации изображения от шумов вида "соль-перец" реализован с использованием функции ядра и модуля Pycuda для работы с CUDA на Python.
+Так как могут долго прогружаться результаты, вот ссылка на colab:
+https://colab.research.google.com/drive/1rH7__o4O0tI9c5NsFJkGdtRb816NIeTD?usp=sharing
 Алгоритм:
 1) Считывание исходного изображения MxN из файла.
 2) Изменение размеров изображения. Добавления шумов "соль-перец" к исходному изображению, используя функцию-генератор.
